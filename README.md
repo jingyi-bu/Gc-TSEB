@@ -1,4 +1,4 @@
-Bu, J., Gan, G. *, Chen, J., Sun, Y., Yuan, M., Gao, Y. *, Domingo, F., Lopez-Ballesteros, A., Migliavacca, M., El-Madany, T.S., Gentine, P., Xiao, J., Garcia, M., 2024. Dryland evapotranspiration from remote sensing solar-induced chlorophyll fluorescence: constraining an optimal stomatal model within a two-source energy balance model. Remote Sensing of Environment, 303, 113999.
+Bu, J., Gan, G. *, Chen, J., Su, Y., Yuan, M., Gao, Y. *, Domingo, F., Lopez-Ballesteros, A., Migliavacca, M., El-Madany, T.S., Gentine, P., Xiao, J., Garcia, M., 2024. Dryland evapotranspiration from remote sensing solar-induced chlorophyll fluorescence: constraining an optimal stomatal model within a two-source energy balance model. Remote Sensing of Environment, 303, 113999.
 
 Gan, G., Kang, T., Yang, S., Bu, J.*, Feng, Z., Gao, Y.*, 2019. An optimized two source energy balance model based on complementary concept and canopy conductance. Remote Sensing of Environment, 223, 243-256. 
 
