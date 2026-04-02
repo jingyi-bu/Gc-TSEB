@@ -11,6 +11,7 @@ The Gc-TSEB model partitions land surface fluxes into canopy and soil components
 
 
 
+
 📚 References：
 
 Bu, J., Gan, G. *, Chen, J., Su, Y., Yuan, M., Gao, Y. *, Domingo, F., Lopez-Ballesteros, A., Migliavacca, M., El-Madany, T.S., Gentine, P., Xiao, J., Garcia, M., 2024. Dryland evapotranspiration from remote sensing solar-induced chlorophyll fluorescence: constraining an optimal stomatal model within a two-source energy balance model. Remote Sensing of Environment, 303, 113999.
