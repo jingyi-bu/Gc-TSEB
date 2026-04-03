@@ -1,4 +1,4 @@
-Gc-TSEB (Canopy conductance-based Two-Source Energy Balance (TSEB) model)
+# Gc-TSEB (Canopy conductance-based Two-Source Energy Balance (TSEB) model)
 
 <img width="805" height="556" alt="image" src="https://github.com/user-attachments/assets/80c5f391-e53f-4f35-9233-2dc3c5e8a8de" />
 
