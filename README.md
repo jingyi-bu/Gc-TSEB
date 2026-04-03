@@ -6,6 +6,11 @@ Gc-TSEB (Canopy conductance-based Two-Source Energy Balance (TSEB) model)
 
 The Gc-TSEB model partitions land surface fluxes into canopy and soil components while introducing canopy conductance (Gc) as a physiological constraint on transpiration. In the canopy module, transpiration is directly regulated by stomatal conductance, linking plant physiology to energy balance. The soil module represents evaporation as a function of available energy and soil drying conditions. The model is solved iteratively by updating canopy and soil temperatures until the simulated land surface temperature (LST) converges. Unlike traditional approaches, LST is treated as a model output rather than an input, allowing Gc-TSEB to provide a physically and biologically consistent representation of evapotranspiration dynamics, particularly under water-stressed conditions. 
 
+Compared to earlier versions of Gc-TSEB (Gan et al., 2019), we introduce several key improvements:
+(1) canopy transpiration is constrained using SIF-derived photosynthesis coupled with the Medlyn stomatal conductance model, strengthening the link between carbon and water fluxes;
+(2) net radiation is partitioned into canopy and soil components using a radiative transfer scheme that accounts for spectral differences between visible and near-infrared wavelengths (Campbell and Norman, 1998; Kustas and Norman, 1999a), reducing biases in sparsely vegetated regions compared to Beer’s Law-based approaches;
+(3) soil evaporation is improved by incorporating a moisture–dependent smoothing factor (Zhang et al., 2010), allowing better representation of evaporation pulses following precipitation events in dryland ecosystems.
+
 
 <img width="1240" height="573" alt="image" src="https://github.com/user-attachments/assets/ca29558d-f2a4-4d4c-be5d-59d838849b30" />
 
