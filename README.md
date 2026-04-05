@@ -27,4 +27,4 @@ Gan, G., Gao, Y.*, 2015. Estimating time series of land surface energy fluxes us
 
 Gao, Y., Gan, G.*, Liu, M. and Wang, J., 2016. Evaluating soil evaporation parameterizations at near-instantaneous scales using surface dryness indices. Journal of Hydrology, 541: 1199-1211.
 
-Bu, J., Gan, G.*, Chen, J., Su, Y., Garcia, M., Gao, Y.*, 2021. Biophysical constraints on evapotranspiration partitioning for a conductance-based two source energy balance model. Journal of Hydrology, 603, 127179.
+Bu, J., Gan, G.*, Chen, J., Su, Y., Garcia, M., Gao, Y. *, 2021. Biophysical constraints on evapotranspiration partitioning for a conductance-based two source energy balance model. Journal of Hydrology, 603, 127179.
